@@ -11,6 +11,7 @@
 
   - [Hybrid 原理](./喜马拉雅/himalaya官网项目/Hybrid原理.md)
   - [i18n 国际化](./喜马拉雅/himalaya官网项目/i18n国际化.md)
+  - [ReactSSR](./喜马拉雅/himalaya官网项目/ReactSSR.md)
 
 - studio 项目
 
