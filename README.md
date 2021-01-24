@@ -6,6 +6,8 @@
 
 ## 工作总结
 
+<img src="./assets/工作总结.png">
+
 ### 丽章
 
 - [power-works 项目](./丽章/power-works.md)
@@ -25,5 +27,3 @@
   - [Babel 插件](./喜马拉雅/himalaya官网项目/babel插件.md)
 
 - studio 项目
-
-<img src="./assets/工作总结.png">
