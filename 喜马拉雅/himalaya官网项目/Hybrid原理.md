@@ -13,7 +13,7 @@ JSBridge 的核心是构建 JS 和 Native 之间 `双向通信的通道`，`双�
 - JS 向 Native 端发送消息：调用 Native 的功能（如获取地理位置、拍照等）
 - Native 向 JS 端发送消息：执行 JS 在 Window 注册的回调
 
-## 一、实现原理
+## 1. 实现原理
 
 ### 1.1 JS 调用 Native
 
@@ -152,6 +152,6 @@ function checkOpen(cbFn: Function): void {
 
 Native 调用 JavaScript 比较简单：拼接 JavaScript 字符串，从外部调用 JavaScript 中的方法即可。
 
-## 二、JSBridge 如何引入
+## 2. JSBridge 如何引入
 
 见文章开头的图
