@@ -10,7 +10,7 @@
 
 ### 丽章
 
-- [power-works 项目](./丽章/power-works.md)
+- [power-works 项目](./丽章/power-works项目.md)
 
 ### 喜马拉雅
 
