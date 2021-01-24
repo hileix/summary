@@ -2,7 +2,7 @@
 
 ## 技术
 
-- [cat-ui](./技术/CSS/CSS.md)
+- [CSS](./技术/CSS/CSS.md)
 
 ## 喜马拉雅
 
