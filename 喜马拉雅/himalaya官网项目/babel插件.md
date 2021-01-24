@@ -1,5 +1,7 @@
 # babel 插件
 
+<img src="../../思维导图/Babel.png">
+
 ## 1. 开发中存在的问题
 
 在 award 中，有一个 RootPage/index.js 文件，其作用是导入根页面（RootPage）和所有的子页面（subPages）。
@@ -190,5 +192,3 @@ async function selectPages(pages) {
 #### 3.2 其他文档：
 
 - https://juejin.cn/post/6844903956905197576
-
-<img src="../../思维导图/Babel.png">
