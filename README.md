@@ -4,7 +4,7 @@
 
 - [CSS](./技术/CSS/CSS.md)
 - [JS 常见函数的实现](./技术/JavaScript/JS常见函数的实现.md)
-- [React 相关的只是](./技术/React/README.md)
+- [React 相关的知识](./技术/React/README.md)
 
 ## 工作总结
 
