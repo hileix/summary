@@ -3,6 +3,7 @@
 ## 技术
 
 - [CSS](./技术/CSS/CSS.md)
+- [JS 常见函数的实现](./技术/JavaScript/JS常见函数的实现.md)
 
 ## 工作总结
 
