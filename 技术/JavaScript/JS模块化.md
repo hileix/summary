@@ -85,3 +85,7 @@ AMD 的介绍：https://juejin.cn/post/6844903541853650951
 Common Module Definition 通用模块定义。CMD 规范是国内发展出来的，Sea.js 实现了该规范。
 
 CMD 的介绍：https://juejin.cn/post/6844903541853650951
+
+# 参考
+
+https://juejin.cn/post/6844903744518389768
