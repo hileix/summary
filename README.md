@@ -1,10 +1,19 @@
 # 工作技术总结
 
-## 技术
+## 1. 技术
+
+### 1.1 JavaScript
+
+- [JS 常见函数的实现](./技术/JavaScript/JS常见函数的实现.md)
+- [JS 模块化](./技术/JavaScript/JS模块化.md)
+
+### 1.2 React
+
+- [React 相关的知识](./技术/React/README.md)
+
+### 1.3 CSS
 
 - [CSS](./技术/CSS/CSS.md)
-- [JS 常见函数的实现](./技术/JavaScript/JS常见函数的实现.md)
-- [React 相关的知识](./技术/React/README.md)
 
 ## 工作总结
 
