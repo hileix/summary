@@ -2,16 +2,21 @@
 
 ## 1. 技术总结
 
-### 1.1 JavaScript
+### 1.1 前端开发
+
+- [前端跨域解决方案](./技术/前端开发/前端跨域解决方案.md)
+
+### 1.2 JavaScript
 
 - [JS 常见函数的实现](./技术/JavaScript/JS常见函数的实现.md)
 - [JS 模块化](./技术/JavaScript/JS模块化.md)
+- [JS 中浮点数精度问题](./技术/JavaScript/JS中浮点数精度问题.md)
 
-### 1.2 React
+### 1.3 React
 
 - [React 相关的知识](./技术/React/README.md)
 
-### 1.3 CSS
+### 1.4 CSS
 
 - [CSS](./技术/CSS/CSS.md)
 
