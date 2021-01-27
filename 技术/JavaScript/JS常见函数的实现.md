@@ -186,6 +186,11 @@ Function.prototype._bind = function (ctx, ...args) {
 
 防抖原理：在事件被触发 n 秒后再执行回调，如果在 n 秒内又被触发，则重新计时。
 
+应用场景：
+
+- input 搜索时，只有用户结束输入后的一段时间，才去请求
+- 触发 resize/scroll 事件时
+
 ```js
 function debounce(callback, time) {
   // 记录定时器 id
@@ -290,6 +295,11 @@ function debounce(callback, time, immediate) {
 ## 实现节流（throttle）函数
 
 节流（throttle）函数原理：持续触发事件，每隔一段时间，只执行一次事件。
+
+应用场景：
+
+- scroll 事件，每隔一秒计算一次位置信息
+- input 框实时搜索并发送请求展示下拉列表，每隔一秒发送一次请求 (也可做防抖)
 
 ```js
 // 利用时间戳实现
