@@ -6,7 +6,7 @@
 
 - [前端跨域解决方案](./技术/前端开发/前端跨域解决方案.md)
 
-### 1.2 JavaScript
+### 1.2 [JavaScript](./技术/JavaScript/README.md)
 
 - [原型和原型链](./技术/JavaScript/原型和原型链.md)
 - [JS 常见函数的实现](./技术/JavaScript/JS常见函数的实现.md)
