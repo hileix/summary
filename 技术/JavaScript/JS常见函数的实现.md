@@ -333,6 +333,26 @@ function throttle(callback, time) {
 }
 ```
 
+## 实现 JS 浅拷贝
+
+```js
+function clone(obj) {
+  if (obj !== null && typeof obj !== 'object') {
+    return obj;
+  }
+  // 判断是数组还是对象
+  const newObj = Array.isArray(obj) ? [] : {};
+
+  for (let key in obj) {
+    if (obj.hasOwnProperty(key)) {
+      newObj[key] = obj[key];
+    }
+  }
+
+  return newObj;
+}
+```
+
 ## 实现 JS 深拷贝
 
 ### 最简单的深拷贝
@@ -349,5 +369,42 @@ function cloneDeep(obj) {
 2. 对存在循环引用的对象进行深克隆，会报错
 
 ```js
+function cloneDeep(obj) {
+  if (obj !== null && typeof obj !== 'object') {
+    return obj;
+  }
+  const newObj = Array.isArray(obj) ? [] : {};
 
+  for (let key in newObj) {
+    if (newObj.hasOwnProperty(key)) {
+      newObj[key] =
+        typeof obj[key] === 'object' ? cloneDeep(obj[key]) : obj[key];
+    }
+  }
+
+  return newObj;
+}
 ```
+
+## 实现 instanceof
+
+instanceof 运算符用于检测 `构造函数的 prototype 属性` 是否出现在某个 `实例对象的原型链` 上。
+
+```js
+function _instanceof(left, right) {
+  let __proto__ = left.__proto__;
+  let prototype = right.prototype;
+
+  while (true) {
+    if (__proto__ === null) {
+      return false;
+    }
+    if (__proto__ === prototype) {
+      return true;
+    }
+    __proto__ = __proto__.__proto__;
+  }
+}
+```
+
+## 实现 Promise
