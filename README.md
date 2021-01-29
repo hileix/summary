@@ -21,13 +21,17 @@
 
 - [CSS](./技术/CSS/CSS.md)
 
+### 1.5 HTTP
+
+- [HTTP 缓存](./技术/HTTP/HTTP缓存.md)
+
 ## 工作总结
 
 <img src="./assets/工作总结.png">
 
 ### 丽章
 
-- [power-works 项目](./丽章/power-works项目.md)
+- [power-works 项目（ToB）](./丽章/power-works项目.md)
 
 ### 喜马拉雅
 
@@ -36,11 +40,11 @@
   - [UI 组件库的思考](./喜马拉雅/基础建设/UI组件库的思考.md)
   - [文件分片上传封装](./喜马拉雅/基础建设/文件分片上传封装.md)
 
-- himalaya 官网项目
+- himalaya 官网项目（**ToC**）
 
   - [Hybrid 原理](./喜马拉雅/himalaya官网项目/Hybrid原理.md)
   - [i18n 国际化](./喜马拉雅/himalaya官网项目/i18n国际化.md)
   - [ReactSSR](./喜马拉雅/himalaya官网项目/ReactSSR.md)
   - [Babel 插件](./喜马拉雅/himalaya官网项目/babel插件.md)
 
-- studio 项目
+- studio 项目（**ToC**）
