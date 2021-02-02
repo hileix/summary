@@ -104,6 +104,7 @@ JS 引擎线程清空 `执行栈`，然后从 `事件队列` 中拿事件继续�
 - check（检测）：setImmediate() 回调函数在这里执行。
 - close callbacks（关闭的回调函数）：一些关闭的回调函数，如：socket.on('close', ...)。
 
+<img src="../../assets/浏览器和Nodejs事件循环对比.png">
 ## 参考
 
 - https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop
