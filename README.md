@@ -13,6 +13,7 @@
 - [JS 常见函数的实现](./技术/JavaScript/JS常见函数的实现.md)
 - [JS 模块化](./技术/JavaScript/JS模块化.md)
 - [JS 中浮点数精度问题](./技术/JavaScript/JS中浮点数精度问题.md)
+- [EventLoop](./技术/JavaScript/EventLoop.md)
 
 ### React
 
