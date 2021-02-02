@@ -106,13 +106,6 @@ JS 引擎线程清空 `执行栈`，然后从 `事件队列` 中拿事件继续�
 - check（检测）：setImmediate() 回调函数在这里执行。
 - close callbacks（关闭的回调函数）：一些关闭的回调函数，如：socket.on('close', ...)。
 
-- Promise 是放在哪个线程中的？
-- requestAnimationFrame 与 setTimeout 的区别？
-- Vue 异步更新策略及 nextTick 原理？
-- 大数相乘相加？
-- HTTP 缓存为什么只能缓存 get 请求响应的资源？
-- 强缓存和协商缓存适用的场景？
-
 ## 参考
 
 - https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop
