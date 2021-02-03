@@ -10,6 +10,7 @@
 ### [JavaScript](./技术/JavaScript/README.md)
 
 - [原型和原型链](./技术/JavaScript/原型和原型链.md)
+- [JS 继承](./技术/JavaScript/JS继承.md)
 - [JS 常见函数的实现](./技术/JavaScript/JS常见函数的实现.md)
 - [JS 模块化](./技术/JavaScript/JS模块化.md)
 - [JS 中浮点数精度问题](./技术/JavaScript/JS中浮点数精度问题.md)
