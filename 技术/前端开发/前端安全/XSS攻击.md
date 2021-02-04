@@ -7,6 +7,7 @@
 <img src="../../../思维导图/React如何防止XSS攻击？.png">
 
 ## 疑问
+
 为什么 document.body.innerHTML 插入 script 标签，不会执行 script 中的代码？
 HTML5 规范规定的。
 
@@ -23,3 +24,4 @@ https://github.com/leizongmin/js-xss
 - https://tech.meituan.com/2018/09/27/fe-security.html
 - https://www.zoo.team/article/xss-in-react
 - https://overreacted.io/zh-hans/why-do-react-elements-have-typeof-property/
+- https://cloud.tencent.com/developer/article/1621427
