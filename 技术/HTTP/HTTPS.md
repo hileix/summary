@@ -59,3 +59,9 @@ HTTPS 默认端口号为 443，传输的是加密的数据。
 
 - TLS1.3 握手详图
   <img src="./assets/TLS1.3握手详图.png">
+
+## 更多
+
+请参考：
+
+https://time.geekbang.org/column/article/111287
