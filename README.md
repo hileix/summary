@@ -1,5 +1,10 @@
 # 技术工作总结
 
+## 0. 工具站收集
+
+- [caniuse](https://caniuse.com/):查看特性的兼容性
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse/?utm_source=devtools):Chrome 自带工具，用来测试网站的性能、可访问性和用户体验。
+
 ## 1. 技术总结
 
 ### 前端开发
@@ -35,6 +40,7 @@
 - [HTTP](./技术/HTTP/HTTP.md)
 - [HTTP 缓存](./技术/HTTP/HTTP缓存.md)
 - [HTTPS](./技术/HTTP/HTTPS.md)
+- [HTTP2](./技术/HTTP/HTTP2.md)
 
 ## 工作总结
 
