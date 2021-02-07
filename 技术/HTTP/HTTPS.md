@@ -4,6 +4,8 @@
 
 ## 1. 什么是 HTTPS？
 
+HTTPS 协议栈：
+
 <img src="./assets/http-vs-https.png">
 
 **HTTPS = HTTP + SSL/TLS（安全套接层）。**
