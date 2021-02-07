@@ -1,5 +1,7 @@
 # HTTPS
 
+<img src="../../思维导图/HTTPS.png">
+
 ## 1. 什么是 HTTPS？
 
 <img src="./assets/http-vs-https.png">
