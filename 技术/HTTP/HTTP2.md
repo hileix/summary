@@ -69,7 +69,7 @@ HTTP2 是对 HTTP/1.1 的优化版本，是兼容 HTTP/1.1 版本的。
 
 ## 4. 协议栈
 
-<img src="./assets/HTTP2协议栈.png">
+<img src="./assets/http2协议栈.png">
 
 在 HTTPS 协议栈的基础上，添加了：
 
