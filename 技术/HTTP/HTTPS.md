@@ -56,7 +56,7 @@ HTTPS 默认端口号为 443，传输的是加密的数据。
 
 双向认证的流程也没有太多变化，只是在“Server Hello Done”之后，“Client Key Exchange”之前，客户端要发送“Client Certificate”消息，服务器收到后也把证书链走一遍，验证客户端的身份。
 
-### 6.1 TLS1.2 连接过程
+### 6.2 TLS1.3 连接过程
 
 - TLS1.3 握手简图
   <img src="./assets/TLS1.3握手简图.png">
