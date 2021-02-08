@@ -25,9 +25,9 @@
 - [JS 中浮点数精度问题](./技术/JavaScript/JS中浮点数精度问题.md)
 - [EventLoop](./技术/JavaScript/EventLoop.md)
 
-### React
+### [React](./技术/React/README.md)
 
-- [React 相关的知识](./技术/React/README.md)
+- [React 的设计理念](./技术/React/React的设计理念.md)
 
 ### Webpack
 
