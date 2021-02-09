@@ -28,6 +28,8 @@
 ### [React](./技术/React/README.md)
 
 - [React 的设计理念](./技术/React/React的设计理念.md)
+- [React 的架构](./技术/React/React的架构.md)
+- [React 的生命周期](./技术/React/React的生命周期.md)
 
 ### Webpack
 
