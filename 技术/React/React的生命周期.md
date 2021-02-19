@@ -4,7 +4,7 @@ https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
 
 <img src="../../思维导图/React的生命周期.png">
 
-还有一些生命周期在上面没有提到（不推荐使用的）：
+还有一些生命周期在上面没有提到（在 React16 中被标记为不安全的生命周期，不推荐使用）：
 
 - componentWillMount
 
@@ -18,8 +18,6 @@ https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
 
 在 render 之前执行。
 
-## React 生命周期相关的一些问题
+为什么上面三个生命周期不推荐使用？
 
-1. 为什么不推荐在 componentWillMount 里获取数据？
-
-因为 componentWillMount 在将来的 React 版本中可能会调用多次。
+查看[此博客](https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html)
