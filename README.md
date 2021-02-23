@@ -24,6 +24,7 @@
 - [JS 模块化](./技术/JavaScript/JS模块化.md)
 - [JS 中浮点数精度问题](./技术/JavaScript/JS中浮点数精度问题.md)
 - [EventLoop](./技术/JavaScript/EventLoop.md)
+- [位运算](./技术/JavaScript/位运算.md)
 
 ### [React](./技术/React/README.md)
 
