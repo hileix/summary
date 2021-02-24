@@ -16,17 +16,17 @@
 
 见 [BEM 命名法](./BEM命名法.md)
 
+https://segmentfault.com/a/1190000009953887
+
 ## 2. CSS Module
 
-http://www.ruanyifeng.com/blog/2016/06/css_modules.html
+参考：http://www.ruanyifeng.com/blog/2016/06/css_modules.html
 
 ## 3. CSS in JS
 
 styled-components
 
-https://zhuanlan.zhihu.com/p/103522819
-
-缺点：
+参考：https://zhuanlan.zhihu.com/p/103522819
 
 ## 4. 总结
 
