@@ -1,8 +1,12 @@
 # React 的错误边界
 
+在 React 中，如果不设置错误边界，就会让代码中未捕获的错误导致应用白屏。
 
+在 React 中，可以通过以下两个方法捕获错误：
 
-在 React 中，可以通过以下两个方法捕获错误
+- getDerivedStateFromError:静态方法。用于更新 state 使得下一次渲染能够显示降级后的 UI。
+
+- componentDidCatch:实例方法。在这里可以将错误信息进行上报。
 
 ```js
 class ErrorBoundary extends React.Component {
