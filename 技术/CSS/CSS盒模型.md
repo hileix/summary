@@ -1,5 +1,7 @@
 # CSS 盒模型
 
+<img src="./assets/CSS盒模型.png">
+
 盒模型由 content(内容) + padding(填充) + border(边框) + margin(边距) 组成。
 
 有两种类型的盒模型：
