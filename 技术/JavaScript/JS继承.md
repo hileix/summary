@@ -63,3 +63,8 @@ function inheritPrototype(Super, Sub) {
 }
 inheritPrototype(Super, Sub);
 ```
+
+## 3. 相关知识点
+
+- [原型和原型链](./原型和原型链.md)
+- [Object.create](./Object.create.md)
