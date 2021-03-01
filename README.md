@@ -25,6 +25,7 @@
 - [JS 中浮点数精度问题](./技术/JavaScript/JS中浮点数精度问题.md)
 - [EventLoop](./技术/JavaScript/EventLoop.md)
 - [位运算](./技术/JavaScript/位运算.md)
+- [Object.create](./技术/JavaScript/Object.create.md)
 
 ### [React](./技术/React/README.md)
 
