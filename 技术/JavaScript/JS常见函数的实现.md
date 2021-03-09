@@ -408,3 +408,9 @@ function _instanceof(left, right) {
 ```
 
 ## 实现 Promise
+
+## 实现 let/const
+
+http://fjnu.top/views/jsbase/2020/%E5%9C%A8ES5%E7%8E%AF%E5%A2%83%E4%B8%8B%E5%AE%9E%E7%8E%B0let%E3%80%81const.html
+
+https://juejin.cn/post/6844903848008482824
