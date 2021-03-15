@@ -1,9 +1,18 @@
 # 技术工作总结
 
-## 0. 工具站收集
+## 0. 工具站和工具收集
+
+工具站：
 
 - [caniuse](https://caniuse.com/):查看特性的兼容性
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse/?utm_source=devtools):Chrome 自带工具，用来测试网站的性能、可访问性和用户体验。
+
+工具：
+
+- [snipaste](https://www.snipaste.com/):截图贴图工具。
+- [Bartender](https://www.macbartender.com/):MacOS 中非常好用的状态栏管理工具。
+- [draw.io](https://app.diagrams.net/):画流程图的软件。可以在 `Help -> Get Desktop` 中获取桌面版。
+- [Mos](https://github.com/Caldis/Mos):一个用于在 MacOS 上平滑你的鼠标滚动效果的小工具, 让你的滚轮爽如触控板。
 
 ## 1. 技术总结
 
