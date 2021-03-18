@@ -29,3 +29,6 @@ POST /posts/batch
 ```
 
 ## 参考
+
+- https://www.cnblogs.com/thunderLL/p/10872011.html
+- https://www.npmjs.com/package/restful-api
