@@ -15,6 +15,10 @@ DELETE /posts/1  // Deletes a post that exists!
 批量操作时，可以这样定义：
 
 ```
+// batch delete
+POST /posts/batch
+     Body: { 'delete': [1, 2, 3, 4, 5, 10, 42, 68, 99] }
+
 // batch create
 POST /posts/batch
      Body: { 'create': [{ name: 'New post!', body: 'Some stuff..' }, { name: 'Another...', body: 'This is nifty!'}] }
@@ -22,10 +26,6 @@ POST /posts/batch
 // batch update
 POST /posts/batch
      Body: { 'update': { 1: { title: 'My new title!' }, 2: { author: 'Walter White' } } }
-
-// batch delete
-POST /posts/batch
-     Body: { 'delete': [1, 2, 3, 4, 5, 10, 42, 68, 99] }
 ```
 
 ## 参考
