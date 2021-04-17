@@ -8,9 +8,12 @@
 
 可以通过 `git stash save 'message'` 添加一些注释。
 
-## 2. git stash list
+## 2. 显示
 
 显示保存进度的列表。
+
+## 3. 恢复到工作区
+
 
 ## 参考
 
