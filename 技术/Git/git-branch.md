@@ -22,4 +22,7 @@ git branch -D <branch-name>: 删除本地分支。
 
 git push origin --delete <branch-name>: 删除远程分支。
 
-## 4.
+## 4. 重命名分支
+
+git branch -m <newname>: 重命名当前分支
+git branch -m <oldname> <newname>: 重命名 `oldname` 为 `newname`
